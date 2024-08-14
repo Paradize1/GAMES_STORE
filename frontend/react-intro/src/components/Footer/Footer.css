@@ -1,0 +1,14 @@
+
+
+.Footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#e66465, #9198e5);    
+    border-radius: 25px;
+    width: 1000px;
+    height: 93px;
+    margin-left: 400px;
+
+}
