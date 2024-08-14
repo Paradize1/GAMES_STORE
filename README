@@ -1,0 +1,30 @@
+магазин покупки видеоигр
+
+перейдите в папку backend, установите и активируйте виртуалку
+
+python -m venv venv
+venv/scripts/activate
+
+установите зависимости
+
+pip install -r requirements.txt
+
+перейдите в папку store_back
+
+запустите сервер 
+python manage.py runserver
+
+
+запустите фронт:
+перейдите в папку frontend/react-intro
+
+npm install
+
+npm start
+
+
+
+Я не стал заморачиваться с header и footer, ключевое - я хотел показать что могу создавать карточки товара
+ну и реализовал функцию добавления в корзину
+
+
